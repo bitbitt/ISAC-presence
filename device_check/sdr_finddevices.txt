@@ -1,0 +1,21 @@
+[INFO] [UHD] linux; GNU C++ version 13.3.0; Boost_108300; UHD_4.9.0.0-290-gcfb98407
+--------------------------------------------------
+-- UHD Device 0
+--------------------------------------------------
+Device Address:
+    serial: 000000037
+    name: lutetia
+    product: B210
+    type: b200
+
+
+--------------------------------------------------
+-- UHD Device 1
+--------------------------------------------------
+Device Address:
+    serial: HQHGTFH
+    name: LibreSDR_B210mini
+    product: B210
+    type: b200
+
+

@@ -1,0 +1,17 @@
+## HOST
+CPU(s):                                  16
+Model name:                              AMD Ryzen 9 8945HS w/ Radeon 780M Graphics
+Thread(s) per core:                      2
+Core(s) per socket:                      8
+CPU(s) scaling MHz:                      34%
+CPU max MHz:                             5263.0610
+CPU min MHz:                             402.7860
+               total        used        free      shared  buff/cache   available
+Mem:            28Gi       5.2Gi        16Gi        50Mi       7.4Gi        23Gi
+Swap:          4.0Gi          0B       4.0Gi
+Linux 6.17.0-35-generic
+PRETTY_NAME="Ubuntu 24.04.4 LTS"
+## LIBS
+Python 3.12.3
+numpy 1.26.4
+uhd 4.9.0.0-290-gcfb98407
